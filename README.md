@@ -10,4 +10,4 @@ Here are the links to the datasets:
 * [2006 - 2012 School Demographics and Accountability Snapshot](https://data.cityofnewyork.us/Education/2006-2012-School-Demographics-and-Accountability-S/ihfw-zy9j)
 * [2010 - 2011 NYC School Survey](https://data.cityofnewyork.us/Education/2010-2011-NYC-School-Survey/mnz3-dyi8)
 
-If the notebook is not rendering, please use [this link](https://nbviewer.jupyter.org/) and paste in https://github.com/EngineBae/NYC-highschool-data/blob/master/Schools.ipynb.
+If the notebook is not rendering, please click on [this link](https://nbviewer.jupyter.org/github/EngineBae/NYC-highschool-data/blob/master/Schools.ipynb) to view the notebook.
